@@ -17,6 +17,7 @@ Lernressourcen für JavaScript um am Ende des Lernpfads mit Meteor, React und Re
     * siehe Ressourcen [Functional Programming](#functional-programming)
 6. Bitte schreibe sauberen Code. Wie das geht:
     * siehe Ressourcen [Code Style](#code-style)
+7. Hab ich etwas vergessen? --> Pull Request!
 
 ## Ressourcen
 
