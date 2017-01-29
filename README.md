@@ -22,6 +22,7 @@ Lernressourcen für JavaScript um am Ende des Lernpfads mit Meteor, React und Re
 ## Ressourcen
 
 ### Functional Programming
+* Nicer Talk über Functional Programming with ES6 https://youtu.be/HvMemAgOw6I
 * Artikel #1 https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/
 * Chapter aus Eloquent JavaScript: http://eloquentjavascript.net/1st_edition/chapter6.html
 * Javascript Verbindung OOP und Functional Programming #1 https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.acblcfpj5
